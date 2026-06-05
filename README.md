@@ -35,7 +35,8 @@ schedule-agent/
 
 ## 快速开始
 
-1. 将 `schedule-agent` 目录复制到你的 IMA skills 目录
+1. 方式一: 下载仓库,把"schedule-agent"保存为zip文件,打开ima的"caplot"功能,点击"SKILL",上传zip文件
+2. 方式二: 在ima的SKILL广场搜索"日程管理助手"进行安装
 2. 在对话中唤起 skill："今天要做什么？"、"写今天的日记" 等
 3. Skill 会自动创建对应的笔记本和笔记
 
