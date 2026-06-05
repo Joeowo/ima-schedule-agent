@@ -57,4 +57,4 @@ v1.0.0
 
 ## 作者
 
-Created with Claude Code
+Joeowo Created with Claude Code
